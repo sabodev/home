@@ -2930,6 +2930,12 @@ input, select, textarea {
 			opacity: 0.25;
 		}
 
+		.googlebutton{
+			background-color: transparent;
+			border: 0;
+		
+		}
+
 /* Goto Next */
 
 	.goto-next {
