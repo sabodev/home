@@ -1,4 +1,4 @@
-@import url(fontawesome-all.min.css);
+@import url("fontawesome-all.min.css");
 @import url("https://googleapis.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
 
 /*
@@ -483,6 +483,7 @@ input, select, textarea {
 		.googlebutton{
 			background-color: transparent;
 			border: 0;
+			
 		
 		}
 
@@ -682,7 +683,7 @@ input, select, textarea {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
 				display: inline-block;
-				font-style: normal;
+				font-style: italic;
 				font-variant: normal;
 				text-rendering: auto;
 				line-height: 1;
@@ -755,7 +756,7 @@ input, select, textarea {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			display: inline-block;
-			font-style: normal;
+			font-style: italic;
 			font-variant: normal;
 			text-rendering: auto;
 			line-height: 1;
@@ -1313,6 +1314,7 @@ input, select, textarea {
 			background-image: -webkit-linear-gradient(to top, rgba(16,16,16,0.45) 25%, rgba(16,16,16,0) 100%);
 			background-image: -ms-linear-gradient(to top, rgba(16,16,16,0.45) 25%, rgba(16,16,16,0) 100%);
 			background-image: linear-gradient(to top, rgba(16,16,16,0.45) 25%, rgba(16,16,16,0) 100%);
+		
 			bottom: 0;
 			cursor: default;
 			left: 0;
@@ -1367,6 +1369,10 @@ input, select, textarea {
 		.poptrox-popup.loading:before {
 			opacity: 0;
 		}
+
+		
+
+		
 
 		body.touch .poptrox-popup .closer,
 		body.touch .poptrox-popup .nav-previous,
@@ -1540,6 +1546,8 @@ input, select, textarea {
 
 				#header h1 a:hover {
 					color: inherit !important;
+					color: #e44c65 !important;
+
 				}
 
 				#header nav {
@@ -2088,7 +2096,7 @@ input, select, textarea {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			display: inline-block;
-			font-style: normal;
+			font-style: italic;
 			font-variant: normal;
 			text-rendering: auto;
 			line-height: 1;
