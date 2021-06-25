@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://googleapis.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
 
 /*
 	Multiverse by HTML5 UP
@@ -2096,7 +2096,7 @@ input, select, textarea {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			display: inline-block;
-			font-style: italic;
+			font-style: normal;
 			font-variant: normal;
 			text-rendering: auto;
 			line-height: 1;
